@@ -1,7 +1,7 @@
 # UX User Flow – Multi-Party Alliance (Tempo)
 
-This document describes the core user flow of the **Multi-Party Alliance** feature.  
-The scope is limited to alliance creation, membership, proposal submission, internal voting, and execution of mandates on-chain.  
+- This document describes the core user flow of the **Multi-Party Alliance** feature.  
+- The scope is limited to alliance creation, membership, proposal submission, internal voting, and execution of mandates on-chain.  
 
 ---
 
