@@ -25,7 +25,7 @@ sequenceDiagram
     AL-->>U: Proposal published
 
     alt Internal Vote
-        AL->>U: Open vote (For/Against/Abstain)
+        AL->>U: Open vote (Yes/No/Abstain)
         U-->>AL: Cast vote
         AL-->>AL: Tally votes, check quorum/threshold
     end
@@ -49,7 +49,7 @@ stateDiagram-v2
 
     Discussion --> Voting: Move to internal vote
 
-    Voting: Members vote (For/Against/Abstain)
+    Voting: Members vote (Yes/No/Abstain)
     Voting --> Decision: Tally + quorum/threshold
 
     Decision --> Mandated: If PASSED
