@@ -5,17 +5,13 @@ The links serve as part of the **evidence** for Milestone 1 (UX/UI design docume
 
 ---
 
-## 1. User Flow & Wireframes
-- [Figma Link – Alliance User Flow](<INSERT_FIGMA_LINK_HERE>)  
+## 1. User Flow
+- [Figma Link – Alliance User Flow](https://www.figma.com/design/haONyQNMqnFr8Yb0wlFbf5/DAO-973?node-id=17514-4038&t=gC0IztPjFbnIJyTR-1)  
   *Covers: create alliance, join alliance, submit proposal, internal voting, mandate execution.*
 
 ## 2. UI Mockups
-- [Figma Link – Alliance Dashboard Screens](<INSERT_FIGMA_LINK_HERE>)  
+- ![Figma Preview](https://i.imgur.com/abc123.png)
   *Includes: proposal list, voting screen, results page.*
-
-## 3. Component Library (if applicable)
-- [Figma Link – Components & Styles](<INSERT_FIGMA_LINK_HERE>)  
-  *Base styles, typography, reusable components (buttons, cards, forms).*
 
 ---
 
