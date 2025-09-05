@@ -23,5 +23,5 @@ The links and files serve as part of the **evidence** for Milestone 1 (UX/UI des
 ---
 
 ## 3. Notes
-- If reviewers cannot access the Figma file directly, exported screenshots are provided under `/design/mockups/`.  
-- `ux-userflow.md` and this file together form the UX/UI design documentation evidence for Milestone 1.
+- If reviewers cannot access the Figma project link, the UI has been exported as a PDF:  
+  [`/design/Multi-Party Alliance.pdf`](./Multi-Party%20Alliance.pdf) 
